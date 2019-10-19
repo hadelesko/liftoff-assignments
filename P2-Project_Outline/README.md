@@ -20,17 +20,17 @@ The management of the inventories in some warehouse  requires large technical as
 <li>Production or Customer  : The production can decrease the amount of the stored material buy using it in the production process. The customer decreases the quantity of the product in the warehouse by buying it. customer is external partner to the warehouse like supplier. </li></ul>
 
 <p>The interaction described between the four entities above lead to entities relationship that  we can see <a href="https://github.com/hadelesko/vendormanagedinventory/blob/master/src/main/resources/static/Screenshot%20from%202019-10-17%2020-57-55.png">here</a></p>
-### Features
+<h3>Features</h3>
 <p>As described above this application will support the warhouse, the Vendors and customer in their inteactions. All together we can identify the following methods:</p>
 <ul>
-<li><strong>Add:</strong>new customer, new vendor, new product</li>
-<li><strong>Login:</strong> vendor, customer</li>
-<li><strong>Receive</strong>a product from vendors or from customer after return</li>
-<li><strong>Return</strong>product: warehouse retun product to the vendor</li>
-<li><strong>Search</strong>product, customer, vendor</li>
+<li><strong>Add: </strong> new customer, new vendor, new product</li>
+<li><strong>Login: </strong> vendor, customer</li>
+<li><strong>Receive </strong> a product from vendors or from customer after return</li>
+<li><strong>Return </strong> product: warehouse retun product to the vendor</li>
+<li><strong>Search </strong> product, customer, vendor</li>
 </ul>
 
-### Technologies
+<h3>Technologies</h3>
 Include Technologies here
 <ul><li>Java</li>
 <li>SpringBoot</li>
