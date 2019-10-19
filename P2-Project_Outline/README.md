@@ -40,10 +40,6 @@ In this project will use some technologies for the back-end(Java, springboot, my
 <li>Javascript</li>
 </ul>
 <h3>What I'll Have to Learn</h3><br/>
-For some statistic purposes I will learn <a href="https://d3js.org/" target="_blank">D3.js</a> 
-
-
-</ul>
-Angularjs, D3js
+For some statistic purposes I will learn <a href="https://d3js.org/" target="_blank">D3.js</a><br/>
 <h3>Project Tracker</h3>
 As described in the overview feature and technologie, the progress in this project can be followed <a href="https://trello.com/b/rtJ90o14/welcome-to-trello">here</a> 
