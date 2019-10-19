@@ -8,11 +8,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 <h1><a href="https://github.com/hadelesko/vendormanagedinventory">Vendor Managed Inventory</a></h1>
-The vendors are associated to a warehouse and keep track on the inventory of the products/items in the warehouse and update the stock as soon as needed. In this case every Vendor or supplier has his specific sets of products in the warehouse and is responsible for its inventories. The vendor is not present in the warehouse but keep track on his products sold in this warehouse and reacts to deliver as soon as the stock is low. 
-<p><strong>Why this project?</strong></p>
-The management of the inventories in some warehouse  requires large technical assistance and human resources. All this increase the management cost. Another problem is the availability for the information related to the existing stock of the material to the suppliers so that they can optimize  their  production plan and deliver optimal quantity of their products in the warehouse on the time. The basis of the decision is the information. To make this information permanently ready for the decision for each partner of the warehouse we'll design a system to let the Vendors or Suppliers to follow the usage or the sale of the supplied products so that they can react properly to refill the stock of the product accordingly to the needs in the warehouse.This system  can be designed as following:
+<p style="text-align:justify">The vendors are associated to a warehouse and keep track on the inventory of the products/items in the warehouse and update the stock as soon as needed. In this case every Vendor or supplier has his specific sets of products in the warehouse and is responsible for its inventories. The vendor is not present in the warehouse but keep track on his products sold in this warehouse and reacts to deliver as soon as the stock is low.</p><br/>
+<p><h3>Why this project?</h3></p>
+<p style="text-align:justify">The management of the inventories in some warehouse  requires large technical assistance and human resources. All this increase the management cost. Another problem is the availability for the information related to the existing stock of the material to the suppliers so that they can optimize  their  production plan and deliver optimal quantity of their products in the warehouse on the time. The basis of the decision is the information. To make this information permanently ready for the decision for each partner of the warehouse we'll design a system to let the Vendors or Suppliers to follow the usage or the sale of the supplied products so that they can react properly to refill the stock of the product accordingly to the needs in the warehouse.This system  can be designed as following:</p>
  
-<p>The warehouse  generally works together with  the supplier(Vendors who deliver the products/items), the production or customer(who buys its products or consume the products). We can then identify four principals entities:</p>
+<p style="text-align=:justify">The warehouse  generally works together with  the supplier(Vendors who deliver the products/items), the production or customer(who buys its products or consume the products). We can then identify four principals entities:</p>
 <ul>
 <li>Vendor or Supplier: defined as the external partner of the warehouse increase the stored products quantity in the warehouse by delivering products.</li>
 <li>Warehouse or Market or storage: defined as the hub or the place where product are available for sale to the customer. It interacts with the suppliers(send products, deliver products) and customers(buy, receive products, pay bill  for the bought products)</li>
@@ -25,13 +25,13 @@ The management of the inventories in some warehouse  requires large technical as
 <ul>
 <li><strong>Add: </strong> new customer, new vendor, new product</li>
 <li><strong>Login: </strong> vendor, customer</li>
-<li><strong>Receive </strong> a product from vendors or from customer after return</li>
-<li><strong>Return </strong> product: warehouse retun product to the vendor</li>
-<li><strong>Search </strong> product, customer, vendor</li>
+<li><strong>Receive: </strong> a product from vendors or from customer after return</li>
+<li><strong>Return: </strong> product: warehouse retun product to the vendor</li>
+<li><strong>Search: </strong> product, customer, vendor</li>
 </ul>
 
-<h3>Technologies</h3>
-Include Technologies here
+<h3>Technologies</h3><br/>
+In this project will use some technologies for the back-end(Java, springboot, mysql) and front-end(Thymeleaf, Bootstrap, Javascript)
 <ul><li>Java</li>
 <li>SpringBoot</li>
 <li>Mysql</li>
@@ -39,7 +39,12 @@ Include Technologies here
 <li>Bootstrap</li>
 <li>Javascript</li>
 </ul>
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+<br/>
+<h3>What I'll Have to Learn</h3><br/>
+For some statistic purposes I will learn <a href="https://d3js.org/" target="_blank">D3.js</a> 
+
+
+</ul>
+Angularjs, D3js
+<h3>Project Tracker</h3>
+As described in the overview feature and technologie, the progress in this project can be followed <a href="https://trello.com/b/rtJ90o14/welcome-to-trello">here</a> 
