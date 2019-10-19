@@ -30,7 +30,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 <li><strong>Search: </strong> product, customer, vendor</li>
 </ul>
 
-<h3>Technologies</h3><br/>
+<h3>Technologies</h3>
 In this project will use some technologies for the back-end(Java, springboot, mysql) and front-end(Thymeleaf, Bootstrap, Javascript)
 <ul><li>Java</li>
 <li>SpringBoot</li>
@@ -39,7 +39,6 @@ In this project will use some technologies for the back-end(Java, springboot, my
 <li>Bootstrap</li>
 <li>Javascript</li>
 </ul>
-<br/>
 <h3>What I'll Have to Learn</h3><br/>
 For some statistic purposes I will learn <a href="https://d3js.org/" target="_blank">D3.js</a> 
 
