@@ -10,10 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 In order to get some global view of the project <a href="https://github.com/hadelesko/vendormanagedinventory">Vendor Managed Inventory</a> we present here pages to show what will be done.
 <ul>
-<li><img src="https://github.com/hadelesko/vendormanagedinventory/blob/master/src/main/resources/static/somereview/Screenshot%20from%202019-10-26%2017-13-18.png"> </img></li>
-<li><img src="https://github.com/hadelesko/vendormanagedinventory/blob/master/src/main/resources/static/somereview/Screenshot%20from%202019-10-26%2017-12-55.png"></img></li>    
-<li><img src="https://github.com/hadelesko/vendormanagedinventory/blob/master/src/main/resources/static/somereview/Screenshot%20from%202019-10-26%2017-12-23.png"></img></li>
-<li><img src="https://github.com/hadelesko/vendormanagedinventory/blob/master/src/main/resources/static/somereview/Screenshot%20from%202019-10-26%2018-00-44.png"></img></li>
+<li><img src="https://github.com/hadelesko/liftoff-assignments/blob/master/imagess/wf1.jpeg"> </img></li>
+<li><img src="https://github.com/hadelesko/liftoff-assignments/blob/master/imagess/wf2.jpeg"></img></li>    
+<li><img src="https://github.com/hadelesko/liftoff-assignments/blob/master/imagess/wf3.jpeg"></img></li>
+<li><img src="https://github.com/hadelesko/liftoff-assignments/blob/master/imagess/wf4.jpeg"></img></li>
 </ul>   
 
 ### Project Tracker
